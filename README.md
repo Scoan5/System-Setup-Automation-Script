@@ -11,7 +11,7 @@
 * Create a new user 
 * Install new packages (ex: htop, wget, curl, etc.)
 * Fundamental conditional statement (if/else)
-* Script created for seamless workflow.
+* Bash script created for seamless workflow.
 
 # Requirements / Prerequisites
 
