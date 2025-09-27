@@ -4,7 +4,7 @@
 
 # Overview 
 
- I created this project to display a way to create a new user and provide a foundation of packages and update to date files ready for use once the user log on. This reinforces safety practices for beginner or seasonal Linux users alike using CentOS 9 Stream Distro.
+ I created this project to display a way to create a new user and provide a foundation of packages and up to date files ready for use once the user log on. This reinforces safety practices for beginner or seasonal Linux users alike using CentOS 9 Stream Distro.
 
 # Features
 
