@@ -23,9 +23,11 @@
 
 ```
 Change the script into an executable file
-chmod +x setup.sh
+chmod 777 setup.sh
 ```
 ```
 Run the script 
-sudo ./setup.sh
+./setup.sh
 ```
+# Screenshots
+
