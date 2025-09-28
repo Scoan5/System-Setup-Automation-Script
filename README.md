@@ -18,3 +18,7 @@
 * Must have a laptop/desktop
 * Can be a standalone Linux computer or Virtual Machine (ex: Oracle VirtualBox, VMware Workstation Player)
 * CentOS 9 Stream Distro (Can use a different distro but users should be aware of potential variations in command syntax and available utilities when working with different distributions)
+
+# Install / Run
+
+
