@@ -22,9 +22,10 @@
 # Install / Run
 
 ```
-# Change the script into executable file
+Change the script into an executable file
 chmod +x setup.sh
 ```
-
-* Run the script 
-  sudo ./setup.sh
+```
+Run the script 
+sudo ./setup.sh
+```
