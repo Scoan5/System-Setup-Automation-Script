@@ -31,4 +31,4 @@ Run the script
 ```
 # Screenshots
 
-[Script running](screenshots/Pho6.png)
+[Script running](Pho6.png)
