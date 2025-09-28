@@ -22,7 +22,7 @@
 # Install / Run
 
 # Change the script into executable file 
-chmod +x setup.sh
++ chmod +x setup.sh
 
 * Run the script 
   sudo ./setup.sh
