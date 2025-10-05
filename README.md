@@ -36,3 +36,9 @@ Run the script
 - [Script running](screenshots/Execute-Script.png)
 - [New user login](screenshots/New-User-Created.png)
 - [Check for installed packages](screenshots/Checked-Packages-Installed.png)
+
+# Video
+
+- [Script Execution 1](screenshots/Script-Run-1.gif)
+- [Script Execution 2](screenshots/Script-Run-2.gif)
+- [Script Execution 3](screenshots/Script-Run-3.gif)
