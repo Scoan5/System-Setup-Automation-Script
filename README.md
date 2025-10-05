@@ -31,8 +31,8 @@ Run the script
 ```
 # Screenshots
 
-![Directory created](screenshots/Create-Directory.png)
-![Created script](screenshots/Script-File-Created.png)
-![Script running](screenshots/Execute-Script.png)
-![New user login](screenshots/New-User-Created.png)
-![Check for installed packages](screenshots/Checked-Packages-Installed.png)
+- [Directory created](screenshots/Create-Directory.png)
+- [Created script](screenshots/Script-File-Created.png)
+- [Script running](screenshots/Execute-Script.png)
+- [New user login](screenshots/New-User-Created.png)
+- [Check for installed packages](screenshots/Checked-Packages-Installed.png)
