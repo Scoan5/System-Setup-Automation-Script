@@ -31,4 +31,8 @@ Run the script
 ```
 # Screenshots
 
-[Script running](Pho6.png)
+[Directory created](Create Directory.png)
+[Created script](Script File Created.png)
+[Script running](Execute Script.png)
+[New user login](New User Created.png)
+[Check for installed packages](Checked Packages Installed.png)
