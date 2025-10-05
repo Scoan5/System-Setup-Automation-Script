@@ -37,7 +37,7 @@ Run the script
 - [New user login](screenshots/New-User-Created.png)
 - [Check for installed packages](screenshots/Checked-Packages-Installed.png)
 
-# Video
+# Videos
 
 - [Script Execution 1](screenshots/Script-Run-1.gif)
 - [Script Execution 2](screenshots/Script-Run-2.gif)
