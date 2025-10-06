@@ -65,7 +65,7 @@ Below are the video demos showing the script "setup.sh" running in realtime.
 
 ```
 ├── setup.sh                     # Main automation script
-├── README.md                    # Project documentation
+├── README.md                    # Documentation for this project
 ├── LICENSE                      # MIT License
 ├── screenshots/                 # Screenshots showing script execution of "setup.sh"
 │   ├── Create-Directory.png
@@ -73,7 +73,7 @@ Below are the video demos showing the script "setup.sh" running in realtime.
 │   ├── Execute-Script.png
 │   ├── New-User-Created.png
 │   └── Checked-Packages-Installed.png
-└── gifs/                        # GIF demos of script running
+└── gifs/                        # GIF demos of script running "setup.sh"
     ├── Script-Run-1.gif
     ├── Script-Run-2.gif
     └── Script-Run-3.gif
