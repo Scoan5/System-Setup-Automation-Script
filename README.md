@@ -34,6 +34,7 @@ Run the script
 
 Below are example visuals showing what happens when the automation script runs successfully on CentOS 9 Stream with the end result showing a new user with installed packages.
 
+
 First I've created a new directory for the script to be in.
 - [Directory created](screenshots/Create-Directory.png)
 
@@ -43,13 +44,13 @@ Then I've created the script name "setup.sh".
 Changed modifications of the script to execute and ran the script.
 - [Script running](screenshots/Execute-Script.png)
 
-Login page on CentOS shows the new username
+Login page on CentOS shows the new username.
 - [New user login](screenshots/New-User-Created.png)
 
-Checked for installed packages in the new users account terminal
+Checked for installed packages in the new users account terminal.
 - [Check for installed packages](screenshots/Checked-Packages-Installed.png)
 
-Videos showing the script "setup.sh" running
+Videos showing the script "setup.sh" running.
 - [Script Execution 1](screenshots/Script-Run-1.gif)
 - [Script Execution 2](screenshots/Script-Run-2.gif)
 - [Script Execution 3](screenshots/Script-Run-3.gif)
