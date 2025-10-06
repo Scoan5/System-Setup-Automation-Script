@@ -60,6 +60,7 @@ Below are the video demos showing the script "setup.sh" running in realtime.
 
 Here are other ways for me to update this project.
 
+- Add new packages used for core responsibilities.
 - Monthly version checks.
 - Custom new username for user to create while running script.
 - Alternate script for Debian-based users. (Ex: Ubuntu)
