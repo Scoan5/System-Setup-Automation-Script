@@ -55,6 +55,17 @@ Below are the video demos showing the script "setup.sh" running in realtime.
 - [Script Execution 2](screenshots/Script-Run-2.gif)
 - [Script Execution 3](screenshots/Script-Run-3.gif)
 
+
+# Future Upgrade
+
+Here are other ways for me to update this project.
+
+- Add error handling and logging.
+- Monthly version checks.
+- Custom new username for user to create.
+- Alternate script for Debian-based users. (Ex: Ubuntu)
+
+  
 # License 
 
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
@@ -62,13 +73,14 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 # Author & Credits
 
 **Anton Scott**  
-IT Professional exploring Linux System Administration and Automation.  
-Currently learning CentOS, Bash scripting, and preparing for LPIC-1 certification.  
+
+IT Professional with 8+ years of experience in IT support and system administration.  
+Currently transitioning and expanding expertise into Linux system administration and automation to leverage IT experience in enterprise environments.
+This project demonstrates practical automation skills and my transition into Linux-focused roles.
+
+**Credits:**  
+Self learning of CentOS 9 Stream documentations and Linux learning resources. This project I've created represents my personal automation work for system setup.
 
 **Contact Infomation**
 - Email: anton.s.scott@gmail.com
-
-**Credits:**  
-This project was inspired by official CentOS documentation and Linux learning resources, and it represents my personal automation work for system setup.  
-
 - GitHub: [@scoan5](https://github.com/scoan5)
