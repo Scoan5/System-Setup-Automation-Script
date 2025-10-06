@@ -61,15 +61,16 @@ Below are the video demos showing the script "setup.sh" running in realtime.
 ├── setup.sh                     # Main automation script
 ├── README.md                    # Project documentation
 ├── LICENSE                      # MIT License
-├── screenshots/                 # Screenshots showing script execution
-│   ├── Create Directory.png
-│   ├── Script File Created.png
-│   ├── Execute Script.png
-│   ├── New User Created.png
-│   └── Checked Packages Installed.png
+├── screenshots/                 # Screenshots showing script execution of "setup.sh"
+│   ├── Create-Directory.png
+│   ├── Script-File-Created.png
+│   ├── Execute-Script.png
+│   ├── New-User-Created.png
+│   └── Checked-Packages-Installed.png
 └── gifs/                        # GIF demos of script running
-    ├── Execute Script.gif
-    └── New User Created.gif
+    ├── Script-Run-1.gif
+    ├── Script-Run-2.gif
+    └── Script-Run-3.gif
 ```
 
 # Future Updates
@@ -95,7 +96,7 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 - Currently transitioning and expanding expertise into Linux system administration and automation to leverage IT experience in enterprise environments.
 - This project demonstrates practical automation skills and my transition into Linux-focused roles.
 
-**Credits:**  
+**Credits**  
 
 - Self learning of CentOS 9 Stream documentations and Linux learning resources. 
 - This project I've created represents my personal automation work for system setup.
