@@ -63,7 +63,8 @@ Here are other ways for me to update this project.
 - Add new packages used for core responsibilities.
 - Monthly version checks.
 - Custom new username for user to create while running script.
-- Alternate script for Debian-based users. (Ex: Ubuntu)
+- Alternate script for Debian-based users. (Ex: Ubuntu).
+- Add more automation features based on real-world IT scenarios.
 
   
 # License 
