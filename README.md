@@ -50,7 +50,23 @@ Login page on CentOS shows the new username.
 Checked for installed packages in the new users account terminal.
 - [Check for installed packages](screenshots/Checked-Packages-Installed.png)
 
-Videos showing the script "setup.sh" running.
+Below are the video demos showing the script "setup.sh" running in realtime.
 - [Script Execution 1](screenshots/Script-Run-1.gif)
 - [Script Execution 2](screenshots/Script-Run-2.gif)
 - [Script Execution 3](screenshots/Script-Run-3.gif)
+
+# Project Structure
+
+├── setup.sh
+├── README.md
+├── LICENSE
+├── screenshots/
+│   ├── Create-Directory.png
+│   ├── Script-File-Created.png
+│   ├── Execute Script.png
+│   ├── New User Created.png
+│   └── Checked Packages Installed.png
+└── gifs/
+    ├── Execute Script.gif
+    └── New User Created.gif
+
