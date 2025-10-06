@@ -80,7 +80,8 @@ This project demonstrates practical automation skills and my transition into Lin
 
 **Credits:**  
 
-Self learning of CentOS 9 Stream documentations and Linux learning resources. This project I've created represents my personal automation work for system setup.
+Self learning of CentOS 9 Stream documentations and Linux learning resources. 
+This project I've created represents my personal automation work for system setup.
 
 **Contact Infomation**
 
