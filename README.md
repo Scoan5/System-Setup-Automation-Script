@@ -65,6 +65,9 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 IT Professional exploring Linux System Administration and Automation.  
 Currently learning CentOS, Bash scripting, and preparing for LPIC-1 certification.  
 
+**Contact Infomation**
+- Email: anton.s.scott@gmail.com
+
 **Credits:**  
 This project was inspired by official CentOS documentation and Linux learning resources, and it represents my personal automation work for system setup.  
 
