@@ -55,18 +55,7 @@ Below are the video demos showing the script "setup.sh" running in realtime.
 - [Script Execution 2](screenshots/Script-Run-2.gif)
 - [Script Execution 3](screenshots/Script-Run-3.gif)
 
-# Project Structure
+# License 
 
-├── setup.sh
-├── README.md
-├── LICENSE
-├── screenshots/
-│   ├── Create-Directory.png
-│   ├── Script-File-Created.png
-│   ├── Execute Script.png
-│   ├── New User Created.png
-│   └── Checked Packages Installed.png
-└── gifs/
-    ├── Execute Script.gif
-    └── New User Created.gif
+This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
 
