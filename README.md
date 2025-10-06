@@ -59,3 +59,13 @@ Below are the video demos showing the script "setup.sh" running in realtime.
 
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
 
+# Author & Credits
+
+**Anton Scott**  
+IT Professional exploring Linux System Administration and Automation.  
+Currently learning CentOS, Bash scripting, and preparing for LPIC-1 certification.  
+
+**Credits:**  
+This project was inspired by official CentOS documentation and Linux learning resources, and it represents my personal automation work for system setup.  
+
+- GitHub: [@scoan5](https://github.com/scoan5)
