@@ -56,7 +56,7 @@ Below are the video demos showing the script "setup.sh" running in realtime.
 - [Script Execution 3](screenshots/Script-Run-3.gif)
 
 
-# Future Upgrade
+# Future Updates
 
 Here are other ways for me to update this project.
 
