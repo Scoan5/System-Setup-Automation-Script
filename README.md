@@ -55,6 +55,12 @@ Below are the video demos showing the script "setup.sh" running in realtime.
 - [Script Execution 2](screenshots/Script-Run-2.gif)
 - [Script Execution 3](screenshots/Script-Run-3.gif)
 
+# Security Notes
+
+- The script created does requires `sudo` privileges to run certain commands. Run carefully.  
+- Please note not to **store sensitive information** (like passwords or API keys) directly in the script.  
+- Review the script before running it on production systems.
+  
 # Project Structure
 
 ```
